@@ -1,0 +1,10 @@
+body {
+  font-family: 'Roboto';
+  height: 100vh;
+  margin: 0;
+  background: radial-gradient(50% 50% at 50% 50%, #6476B8 0%, #000000 100%);
+  #root {
+    height: 100%;
+    display: flex;
+  }
+}
